@@ -2,6 +2,7 @@
 
 A React application built with Vite that allows users to upload and analyze KML files. The app generates a summary of KML element types, calculates the lengths of line geometries, and visualizes the geographic data on an interactive map using React Leaflet.
 
+live url: https://kml-map-analyzer.vercel.app/
 
 ## Installation
 
